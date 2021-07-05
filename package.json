@@ -1,0 +1,12 @@
+{
+  "name": "rand-int",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node RandTools.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
